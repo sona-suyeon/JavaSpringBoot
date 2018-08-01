@@ -1,0 +1,8 @@
+ClassLoader
+ClassLoader의 계층구조 조사!!
+자바 메모리구조
+AOP의 용어 정리 ( 그림도 있으면 좋음)
+Proxy
+Thread와 공용객체
+Gradle이 무엇인가? 빌드도구 (CoC) 
+Maven이 무엇인가?
